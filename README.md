@@ -1,1 +1,0 @@
-# kivy_android_test_project
